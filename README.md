@@ -18,13 +18,13 @@ The primary source of Data used here is the dataset that contains information sc
 
 ### Tools Used:
 
-- Microsoft Excel for Data Cleaning[Download here](https://www.microsoft.com)
+- Microsoft Excel for Data Cleaning[Download Here](https://www.microsoft.com)
   
--- For Data Collection
--- For Data Cleaning
-  1. Data Manipulation
-  2. Data Munching
-  3. Data Splitting
+ - For Data Collection
+ - For Data Cleaning
+   1. Data Manipulation
+   2. Data Munching
+   3. Data Splitting
 
 - SQL Server (For Querying and Analysis)
 
