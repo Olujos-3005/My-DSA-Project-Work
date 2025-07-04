@@ -18,9 +18,18 @@ The primary source of Data used here is the dataset that contains information sc
 
 ### Tools Used:
 
-Microsoft Excel for Data Cleaning
-- For Data Collection
-- For Data Cleaning
+- Microsoft Excel for Data Cleaning[Download here](https://www.microsoft.com)
+  
+-- For Data Collection
+-- For Data Cleaning
   1. Data Manipulation
   2. Data Munching
-  3. Data Splitting 
+  3. Data Splitting
+
+- SQL Server (For Querying and Analysis)
+
+- Power BI (For creating a report)  
+
+### Data Cleaning and Preparation
+
+At the initial phase of the data cleaning and preparations, we performed the following action: Data loading and inspection, Handlimd missing variables, Data cleaning and formatting.
