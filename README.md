@@ -32,7 +32,7 @@ The primary source of Data used here is the dataset that contains information sc
 
 ### Data Cleaning and Preparation
 
-At the initial phase of the data cleaning and preparations, we performed the following action;
+At the initial phase of the data cleaning and preparations, we performed the following actions;
 1. Data loading and inspection
-2. Handlimd missing variables
+2. Handling missing variables
 3. Data cleaning and formatting
