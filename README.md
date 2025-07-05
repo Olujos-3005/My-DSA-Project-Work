@@ -36,3 +36,20 @@ At the initial phase of the data cleaning and preparations, we performed the fol
 1. Data loading and inspection
 2. Handling missing variables
 3. Data cleaning and formatting
+
+### Data Analysis
+
+I used Pivot Tables and Calculated Columns to analyse Data and to answer questions such as:
+ 1. What is the average discount percentage by product category?
+ 2. How many products are listed under each category?
+ 3. What is the total number of reviews per category?
+ 4. Which products have the highest average rating?
+ 5. Which products have the highest number of reviews?
+ 6. Which categorie have products with the the highest discounts?
+ 7. Identify the top 5 products in terms of rating and number of reviews combined, 
+ And so on.
+
+### Dashboard Creation
+
+This is the final task of this project where we showcased our creativity to build Dashboard with the use of cleaned Dataset and Pivot outputs. 
+
