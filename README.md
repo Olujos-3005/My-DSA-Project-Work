@@ -51,5 +51,6 @@ I used Pivot Tables and Calculated Columns to analyse Data and to answer questio
 
 ### Dashboard Creation
 
-This is the final task of this project where we showcased our creativity to build Dashboard with the use of cleaned Dataset and Pivot outputs. 
+This is the final task of this project, where we showcased our creativity to build Dashboard with the use of cleaned Dataset and Pivot outputs. 
+This aspect of the project takes a lot of critcal thinking Whatever you  
 
